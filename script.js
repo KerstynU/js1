@@ -25,3 +25,54 @@ function zvysCislaOTri (pole) {
 
 const poleCisel(polecisel);
 console.log (poleCisel;)
+
+
+
+
+
+const glabalnipoleCisel = [2,3,7,5,10];
+
+function zvyspoleOTri (lokalniPolecisel) {
+        const novePole = [];
+        for (let index = 0; index < lokalniPolecisel.length; index++) {
+            novePole.push(1);         
+        }
+        console.log(novePole)
+
+
+const poleCisel(polecisel);
+console.log (poleCisel;)
+return novePole,
+}
+
+
+/*) Napište funkci, která vezme jako parametr pole čísel a jako výsledek vrátí nové pole,
+kde budou jen ta čísla z původního pole, která jsou větší než 10*/
+
+const jineGlobalniPoleCisel = [2, 13, 17, 5, 10, 6];
+
+  function CislaVetsiNezDeset(poleUvnitrFunkce) {
+  const novePole = [];
+  for (let index = 0; index < poleUvnitrFunkce.lenght; index++){
+      let zkoumanecislo = poleJakoParametr[index]
+        if (zkoumanecislo > 10) {
+          novePole.push(zkoumanecislo);
+        }
+
+        console.log(novePole);
+        return novePole;
+  }
+
+  }
+
+  CislaVetsiNezDeset(jineGlobalniPoleCisel)
+
+
+
+
+
+  funkcion neznameJmeno(cislo) {
+          return cislo + 3;
+
+          vysledek = nevimecodela(7),
+  }
